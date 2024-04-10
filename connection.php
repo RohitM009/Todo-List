@@ -3,7 +3,7 @@ session_start();
 // Database configuration 
 $dbHost     = "localhost"; 
 $dbUsername = "root"; 
-$dbPassword = ""; 
+$dbPassword = "";  
 $dbName     = "todolist"; 
  
 // Create database connection 
